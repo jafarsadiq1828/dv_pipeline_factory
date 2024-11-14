@@ -1,0 +1,9 @@
+{
+	"name": "dv-pipeline-factory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "13615784-2f34-495a-b0d9-ae4e32067e1d",
+		"tenantId": "b5dc206c-17fd-4b06-8bc8-24f0bb650229"
+	}
+}
