@@ -1,0 +1,9 @@
+{
+	"name": "qa-pipeline-factory",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "22902b62-8f59-4036-9132-5b60223f6bbf",
+		"tenantId": "b5dc206c-17fd-4b06-8bc8-24f0bb650229"
+	}
+}
