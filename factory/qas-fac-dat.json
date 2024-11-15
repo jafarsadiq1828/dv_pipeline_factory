@@ -1,0 +1,9 @@
+{
+	"name": "qas-fac-dat",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3c4838d9-37bb-4328-9a74-ee382f423549",
+		"tenantId": "b5dc206c-17fd-4b06-8bc8-24f0bb650229"
+	}
+}
